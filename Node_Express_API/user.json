@@ -1,0 +1,9 @@
+{
+    "firstName":"Jhone",
+    "lastName":"Doe",
+    "adress":"95 rue de Wagram",
+    "phoneNumber":"06 00 00 00 00",
+    "email":"jhone.doe@gmail.com",
+    "password":"password",
+    "passwordVerif":"password"
+}
